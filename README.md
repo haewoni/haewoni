@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaewoni&edge_flat=false&title=hits)
 
+
 # 🌱 미니 프로젝트 포트폴리오
 
 <br>
@@ -30,8 +31,8 @@ Here are some ideas to get you started:
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | 링크 | 2024-09-13 |
-| 2  | **Linux_PAM - VM 네트워크 및 보안 강화** | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화 | Linux, VirtualBox, PAM, 네트워크 설정 | 개인 프로젝트 | 링크 | 2024-09-19 |
-| 3  | **SmartWorkflow-Crontab-PC-Manager** | Crontab을 이용한 스마트 PC 관리 시스템 | Linux, Crontab, Bash scripting, PAM | 개인 프로젝트 | 링크 | 2024-09-20 |
+| 2  | **cronLab** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
+| 3  | **ELK Stack을 활욜한 데이터 시각화 -** | -- | Lg |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
 
 <br>
 
@@ -40,9 +41,8 @@ Here are some ideas to get you started:
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 팀 프로젝트 (4명) | 링크 | 2024-07-19 |
-| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 팀 프로젝트 (6명) | 링크 | 2024-08-02 |
-| 3  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | 링크| 2024-08-16 |
+| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/haewoni/jpaPractice) | 2024-08-02 |
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다.(2024.09.23)
+이 포트폴리오는 지속적으로 업데이트됩니다.(2024.09.24)
