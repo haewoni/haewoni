@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaewoni&edge_flat=false&title=hits)
 
-# 🌱 My-Personal-Projects-Portfolio
+# 🌱 미니 프로젝트 포트폴리오
 
 <br>
 
