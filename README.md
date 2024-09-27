@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | 링크 | 2024-09-13 |
-| 2  | **cronLab** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
-| 3  | **ELK Stack을 활욜한 데이터 시각화 -** | -- | Lg |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
+| 1  | **Jenkins로 Git 프로젝트 배포 자동화 구축하기** | Jenkins로 Git 프로젝트 배포 자동화 구축하기 | Jenkins, Git, ngrok  | 개인 | 링크 | 2024-09-27 |
+| 2  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | 링크 | 2024-09-13 |
+| 3  | **cronLab** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
+| 4  | **ELK Stack을 활욜한 데이터 시각화 -** | -- | Lg |👩‍👩‍👧‍👦(4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-23 |
 
 <br>
 
