@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | 2  | **[jenkins-prod-deploy](https://github.com/haewoni/jenkins-prod-deploy/blob/main/README.md)** | Jenkins로 Git 프로젝트 배포 자동화 구축하기 | Jenkins, Git, ngrok  | 💁 | 2024-09-27 |
 | 3  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 👩‍👩‍👧‍👦 (4명) | 2024-09-13 |
 | 4  | **[cronLab](https://github.com/LeeYeonhee-00/cronLab)** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
-| 5  | **ELK Stack을 활욜한 데이터 시각화 -** | -- | Lg |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
+| 5  | **[ELK Stack을 활욜한 데이터 시각화](https://github.com/haewoni/ELK-pipeline)** | -- | Lg |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
 
 <br>
 
