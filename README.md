@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | 2  | **[k8s springapp deploy](https://github.com/haewoni/k8s-springapp-deploy/blob/main/README.md)** | Kubernetes로 spring boot 앱 배포 자동화 구축하기 | Docker, Kubernetes, Spring boot  | 💁 | 2024-10-02 |
 | 3  | **[jenkins-prod-deploy](https://github.com/haewoni/jenkins-prod-deploy/blob/main/README.md)** | Jenkins로 Git 프로젝트 배포 자동화 구축하기 | Jenkins, Git, ngrok  | 💁 | 2024-09-27 |
 | 4  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 👩‍👩‍👧‍👦 (4명) | 2024-09-13 |
-| 5  | **[cronLab](https://github.com/LeeYeonhee-00/cronLab)** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
+| 5  | **[cronLab](https://github.com/haewoni/cronLab)** | Crontab을 이용한 인프라 구성 업무 자동화 | Linux, Crontab, Bash scripting |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
 | 6  | **[ELK-Pipeline](https://github.com/haewoni/ELK-Pipeline)** | ELK Stack을 활욜한 데이터 시각화 | ES, Kibana, Logstash, File Beats |👩‍👩‍👧‍👦(4명) | 2024-09-23 |
 
 <br>
