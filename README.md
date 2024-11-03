@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 |----|---------------|------|-----------|----------|------|
 | 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 팀 프로젝트 (4명) | 2024-07-19 |
 | 2  | **[JPA 영속성 컨텍스트 학습을 위한 문제 제작](https://github.com/haewoni/jpaPractice)** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 👩‍👩‍👧‍👦(4명)  | 2024-08-02 |
+| 3  | **[주선자가 보증하는 안전한 소개팅 서비스](https://github.com/DaeHyeonSon/WhiteClothesPeople)** | 주선자가 사용자 간의 소개팅을 주선하는 차별화된 소개팅 플랫폼 개발 | Spring Boot, JPA, RESTful API, JSP기 | 👩‍👩‍👧‍👦(4명)  | 2024-09-10 |
 
 ---
 
