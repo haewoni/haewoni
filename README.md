@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### 1. 풀스택 + 인프라 프로젝트 목록
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 날짜 |
 |----|---------------|------|-----------|----------|--------| 
-| 1  | **[WooRibound](https://github.com/WooRibound)** | 4969 중장년층 세대 취업 플랫폼 | Spring boot, JPA, Figma, Vue.js, Oracle, AWS k8s, Jenkins, Sonarqube, Swagger  | 👩‍👩‍👧‍👦 (4명) | 진행중 |
+| 1  | **[WooRibound](https://github.com/WooRibound)** | 4969 중장년층 세대 취업 플랫폼 | Spring boot, JPA, Figma, Vue.js, Oracle, AWS k8s, Jenkins, Sonarqube, Swagger  | 👩‍👩‍👧‍👦 (5명) | 진행중 |
 
 <br>
 
